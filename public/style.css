@@ -1,0 +1,19 @@
+h1{
+    color:skyblue;
+    font-size: 12;
+    font-style: italic;
+}
+
+
+.h5{
+    color: burlywood;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p{
+    font-weight: bold;
+}
+h3{
+    font-weight: bold;
+    color: tomato;
+}
